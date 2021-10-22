@@ -26,9 +26,9 @@ Deverá ter as seguintes operações: string,
 
 ### 0. Preparação do ambiente
 
-- ( ) Instalar e configurar o Git
-- ( ) Instalar e configurar o Node.js
-- ( ) Instalar e configurar o VSCode
+- (✓) Instalar e configurar o Git
+- (✓) Instalar e configurar o Node.js
+- (✓) Instalar e configurar o VSCode
 - ( ) Instalar e configurar o MongoDB
 - ( ) Instalar e configurar o MongoDB Compass
 
@@ -44,3 +44,21 @@ Deverá ter as seguintes operações: string,
 - ( ) Implementar a classe Service
 - ( ) Implementar a classe DTO
 - ( ) Implementar a classe Controller
+
+### 3. Aplicar arquitetura de camadas
+
+- ( ) Adicionar a camada de infraestrutura
+- ( ) Adicionar a camada de negócio
+- ( ) Adicionar a camada de apresentação (ou interface de usuário)
+
+### 4. Adicionar recursos extras
+
+- ( ) Adicionar middleware do Morgan para exibição de logs da aplicação
+- ( ) Adicionar interceptador de timeout para requisições que demorarem mais que 5 segundos
+- ( ) Adicionar filtro para tratar exceções de negócio e exceções internas
+
+### 5. Adicionar testes
+
+- ( ) Configurar aplicação para dar o suporte correto aos testes unitários e e2e
+- ( ) Adicionar testes unitários
+- ( ) Adicionar testes e2e
