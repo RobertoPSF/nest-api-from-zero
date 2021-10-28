@@ -29,8 +29,8 @@ Deverá ter as seguintes operações: string,
 - (✓) Instalar e configurar o Git
 - (✓) Instalar e configurar o Node.js
 - (✓) Instalar e configurar o VSCode
-- ( ) Instalar e configurar o MongoDB
-- ( ) Instalar e configurar o MongoDB Compass
+- (✓) Instalar e configurar o MongoDB
+- (✓) Instalar e configurar o MongoDB Compass
 
 ### 1. Instalação do Nest.js
 
