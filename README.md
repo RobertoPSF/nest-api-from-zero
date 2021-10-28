@@ -34,7 +34,7 @@ Deverá ter as seguintes operações: string,
 
 ### 1. Instalação do Nest.js
 
-- ( ) Instalar o NestJS globalmente
+- (✓) Instalar o NestJS globalmente
 - ( ) Criar um projeto com o cli do NestJS
 
 ### 2. Desenvolvimento do projeto
