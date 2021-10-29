@@ -39,8 +39,8 @@ Deverá ter as seguintes operações: string,
 
 ### 2. Desenvolvimento do projeto
 
-- ( ) Implementar a classe Schema
-- ( ) Implementar a classe Repository
+- (✓) Implementar a classe Schema
+- (✓) Implementar a classe Repository
 - ( ) Implementar a classe Service
 - ( ) Implementar a classe DTO
 - ( ) Implementar a classe Controller
