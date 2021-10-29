@@ -41,9 +41,9 @@ Deverá ter as seguintes operações: string,
 
 - (✓) Implementar a classe Schema
 - (✓) Implementar a classe Repository
-- ( ) Implementar a classe Service
+- (✓) Implementar a classe Service
 - ( ) Implementar a classe DTO
-- ( ) Implementar a classe Controller
+- (✓) Implementar a classe Controller
 
 ### 3. Aplicar arquitetura de camadas
 
